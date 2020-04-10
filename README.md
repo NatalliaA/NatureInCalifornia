@@ -21,7 +21,14 @@ Project: Responsive Photo Gallery Website with GoogleMaps
                                 <li>The website displays the Tweet button and a timeline with updates of the National Park Service included with Twitter API.</li>
                                 <li>Provided links to the official webpages of the national parks make it convinient for the user to find out more information about the park.</li>
                             </ul>
-<img src="screenschots/npscreen1.PNG" width="500" height="auto">
+<img src="screenschots/npscreen1.PNG" width="400" height="auto">
+<img src="screenschots/npscreen2.PNG" width="400" height="auto">
+<img src="screenschots/npscreen3.PNG" width="400" height="auto">
+<img src="screenschots/npscreen4.PNG" width="400" height="auto">
+<img src="screenschots/npscreen5.PNG" width="400" height="auto">
+<img src="screenschots/npscreen6.PNG" width="400" height="auto">
+<img src="screenschots/npscreen7.PNG" width="400" height="auto">
+<img src="screenschots/npscreen8.PNG" width="400" height="auto">
 
 
                             
