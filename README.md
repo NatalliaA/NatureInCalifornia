@@ -1,4 +1,4 @@
-# NatureInCalifornia
+#nature-california
 Project: Responsive Photo Gallery Website with GoogleMaps
 
  <h4>Description</h4>
