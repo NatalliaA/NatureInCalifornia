@@ -1,7 +1,7 @@
 # nature-california
 ## Project: Responsive Photo Gallery Website with GoogleMaps
 
- ### Description
+ <h3>Description>/h3>
                             <p>The main purpose of this project was to build a responsive photo gallery website - Nature in California. The website shows photos from the nine national parks of California using various column layouts for different devises. The website also includes embedded Google maps with the national park locations pinned and sharing buttons of social media.</p>                           
                             <h4>Developing Tools:</h4>
                             <ul>
