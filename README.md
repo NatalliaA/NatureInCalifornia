@@ -1,7 +1,7 @@
 # nature-california
 ## Project: Responsive Photo Gallery Website with GoogleMaps
 
-**View Live **
+**View Live**
 <https://natalliaa.github.io/nature/index.html>
 
  <h3>Description</h3>
